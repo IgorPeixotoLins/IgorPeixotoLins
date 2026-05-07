@@ -22,17 +22,17 @@ Passionate Front-End Developer with expertise in **React**, **TypeScript**, and 
 ## ✨ Featured Projects
 
 ### [MagickIA](https://github.com/igorpeixoto/MagickIA)
-[![MagickIA](https://img.shields.io/badge/MagickIA-Project-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igorpeixoto/MagickIA)
+[![MagickIA](https://img.shields.io/badge/MagickIA-Project-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IgorPeixotoLins/MagickIA)
 
 *An innovative AI-powered magic application built with React and TypeScript.*
 
 ### [Advice Generator](https://github.com/igorpeixoto/AdviceGenerator)
-[![Advice Generator](https://img.shields.io/badge/Advice%20Generator-Project-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igorpeixoto/AdviceGenerator)
+[![Advice Generator](https://img.shields.io/badge/Advice%20Generator-Project-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IgorPeixotoLins/AdviceGenerator)
 
 *A dynamic advice generator app featuring API integration and modern UI/UX.*
 
 ### [Barber Shop](https://github.com/igorpeixoto/BarberShop)
-[![Barber Shop](https://img.shields.io/badge/Barber%20Shop-Project-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igorpeixoto/BarberShop)
+[![Barber Shop](https://img.shields.io/badge/Barber%20Shop-Project-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IgorPeixotoLins/BarberShop)
 
 *A full-featured booking system for barber shops, developed with React and responsive design.*
 
@@ -40,12 +40,12 @@ Passionate Front-End Developer with expertise in **React**, **TypeScript**, and 
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igorpeixoto)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://igorpeixoto.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-peixoto-frontend-javascript/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor.peixoto.oliveira@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/IgorPeixotoLins/)
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorpeixoto&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPeixotoLins&layout=compact&theme=radical" alt="Top Languages" />
 </div>
