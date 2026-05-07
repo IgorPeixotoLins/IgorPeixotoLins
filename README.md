@@ -1,24 +1,51 @@
-# 👋 Bem-vindo(a) ao perfil do Igor Peixoto Lins
-## 👨‍💻 Sobre mim / About me
-Sou um Desenvolvedor Front-End com uma trajetória singular: trago comigo mais de 10 anos de experiência no coração do setor financeiro (Bradesco), onde desenvolvi um pensamento analítico aguçado e um foco inabalável em resultados. Essa bagagem me permite ir além do código, compreendendo as necessidades estratégicas de negócio e transformando requisitos complexos em interfaces eficientes, intuitivas e de alta performance.Minha transição para a tecnologia não foi apenas uma mudança de carreira, mas uma evolução. Hoje, utilizo minha base técnica sólida em React, TypeScript e Redux para construir soluções que priorizam Clean Code, acessibilidade e uma experiência de usuário (UX) excepcional. Sou movido por desafios técnicos que demandam precisão e segurança — valores fundamentais que herdei da minha vivência no mercado bancário.Como estudante de Engenharia de Software, busco constantemente o equilíbrio entre a robustez da arquitetura de sistemas e a fluidez do front-end moderno. Meu objetivo é colaborar em projetos que impactem positivamente tanto o usuário final quanto os indicadores de sucesso da empresa.
+# Hi there, I'm **Igor Peixoto de Oliveira** 👋
 
-I am a Front-End Developer with a unique professional background: I bring over 10 years of experience from the heart of the financial sector (Bradesco), where I developed sharp analytical thinking and an unwavering focus on results. This journey allows me to look beyond the code, understanding strategic business needs and transforming complex requirements into efficient, intuitive, and high-performance interfaces.My transition into technology was not just a career change, but an evolution. Today, I leverage my solid technical foundation in React, TypeScript, and Redux to build solutions that prioritize Clean Code, accessibility, and exceptional user experience (UX). I am driven by technical challenges that demand precision and security — core values inherited from my extensive banking experience.As a Software Engineering student, I constantly seek the balance between robust system architecture and modern front-end fluidity. My goal is to collaborate on projects that positively impact both the end user and the company's success metrics.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%26+TypeScript;Software+Engineering" alt="Typing SVG" />
+</div>
 
-## 📊 GitHub Stats
-<div> <a href="https://github.com/IgorPeixotoOliveira"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorPeixotoLins&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPeixotoLins&layout=compact&langs_count=10&theme=highcontrast"/></a> </div>
+<div align="center">
+  
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-## 🚀 Tecnologias que utilizo
+</div>
 
+## 📖 Professional Summary
 
-<p align="left">
-  <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="HTML5" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS3" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="REACT" title="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-</p>
+Passionate Front-End Developer with expertise in **React**, **TypeScript**, and **Software Engineering** best practices. I specialize in building intuitive, responsive, and high-performance user interfaces. Committed to clean code, continuous learning, and delivering exceptional digital experiences.
 
-## 📱 Vamos nos conectar?
-Se você curte conteúdos sobre programação ou quer trocar uma ideia, me chama por aqui:
+## ✨ Featured Projects
 
-<div> <a href="https://www.instagram.com/igorpxt/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://discord.gg/snX4CwgP" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> </a> <a href="mailto:igor.peixoto.oliveira@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/igor-peixoto-frontend-javascript/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
+### [MagickIA](https://github.com/igorpeixoto/MagickIA)
+[![MagickIA](https://img.shields.io/badge/MagickIA-Project-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igorpeixoto/MagickIA)
+
+*An innovative AI-powered magic application built with React and TypeScript.*
+
+### [Advice Generator](https://github.com/igorpeixoto/AdviceGenerator)
+[![Advice Generator](https://img.shields.io/badge/Advice%20Generator-Project-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igorpeixoto/AdviceGenerator)
+
+*A dynamic advice generator app featuring API integration and modern UI/UX.*
+
+### [Barber Shop](https://github.com/igorpeixoto/BarberShop)
+[![Barber Shop](https://img.shields.io/badge/Barber%20Shop-Project-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igorpeixoto/BarberShop)
+
+*A full-featured booking system for barber shops, developed with React and responsive design.*
+
+<div align="center">
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igorpeixoto)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://igorpeixoto.dev)
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorpeixoto&layout=compact&theme=radical" alt="Top Languages" />
+</div>
