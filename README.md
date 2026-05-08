@@ -12,6 +12,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -34,6 +37,22 @@ Passionate Front-End Developer with expertise in **React**, **TypeScript**, and 
 
 ---
 
+## 🎓 Education & Certifications
+
+- **B.S. in Software Engineering** — Centro Universitário União Américas Descomplica (In Progress)
+- **Full Stack Development** — Dev em Dobro (In progress with 200+ hours)
+- **CPA 10** — ANBIMA (Financial Market Professional)
+
+---
+
+## 🎯 Why Me?
+
+- **10+ years in fintech (Bradesco)** → I understand business impact, not just code
+- **Clean Code & Best Practices** → ESLint, Prettier, Jest, RTL — production-ready
+- **Problem Solver** → 20% reduction in credit analysis time (process optimization mindset)
+
+---
+
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-peixoto-frontend-javascript/)
@@ -47,3 +66,5 @@ Passionate Front-End Developer with expertise in **React**, **TypeScript**, and 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorPeixotoLins&theme=radical)
 ![GitHub followers](https://img.shields.io/github/followers/IgorPeixotoLins?style=for-the-badge)
+
+---
