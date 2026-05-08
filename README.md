@@ -1,6 +1,6 @@
-# 🚀 Igor Peixoto | Frontend Engineer & Fintech Specialist
+# 🚀 Igor Peixoto | Frontend Engineer & Banking Specialist
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC¢er=true&vCenter=true&width=435&lines=Frontend+Developer;React+%26+TypeScript;Fintech+Expert;Software+Engineering)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC¢er=true&vCenter=true&width=435&lines=Frontend+Developer;React+%26+TypeScript;Banking+Expert;Software+Engineering)
 
 **Transformando requisitos complexos de negócio em interfaces intuitivas, escaláveis e de alta performance.**
 
@@ -10,9 +10,9 @@
 
 Com uma trajetória sólida e maturidade técnica, ofereço mais do que apenas código: entrego soluções alinhadas aos objetivos estratégicos da organização.
 
-- **10+ anos de experiência em Fintech (Bradesco)**: Profundo entendimento do impacto de negócio, segurança de dados e escalabilidade em ambientes de alta criticidade.
+- **10+ anos no setor financeiro (Bradesco).**: Experiência consolidada em **operações de alta pressão**, **atendimento consultivo** e **gestão de relacionamento**. Possuo compreensão profunda das necessidades de **clientes corporativos e pessoas físicas**, sempre com uma **mentalidade voltada a resultados** e **otimização de processos** críticos.
 - **Production-Ready Code**: Foco rigoroso em *Clean Code*, princípios *SOLID* e cobertura de testes para garantir manutenibilidade e reduzir o débito técnico.
-- **Resultados Mensuráveis**: Histórico comprovado na otimização de processos, incluindo a **redução de 20% no tempo de análise de crédito** através de melhorias estratégicas de UI/UX.
+- **Resultados Mensuráveis**: Histórico comprovado na otimização de processos de varejo, incluindo a **redução de 20% no tempo de análise de crédito** através de melhorias estratégicas de **UI/UX** e refinamento de fluxos operacionais, elevando a eficiência e a experiência do usuário final.
 
 ---
 
@@ -53,7 +53,7 @@ Com uma trajetória sólida e maturidade técnica, ofereço mais do que apenas c
 
 ## 🎓 Educação & Certificações
 
-- **Bacharelado em Engenharia de Software** — Centro Universitário União Américas Descomplica (Em andamento)
+- **Bacharelado em Engenharia de Software** — Centro Universitário União Américas Descomplica (Cursando)
 - **Full Stack Development** — Dev em Dobro (Em andamento, Formação intensiva focada em projetos reais)
 - **CPA 10 — ANBIMA** — Certificação Profissional de Mercado Financeiro
 
@@ -64,7 +64,7 @@ Com uma trajetória sólida e maturidade técnica, ofereço mais do que apenas c
 - **Agile**: Experiência prática com Scrum e Kanban em times multidisciplinares.
 - **Qualidade**: Clean Code, Princípios SOLID, DRY e TDD (Test-Driven Development).
 - **UX/UI**: Design Responsivo, Mobile-First e Acessibilidade Web (WCAG).
-- **Soft Skills**: Comunicação assertiva e visão analítica de processos financeiros.
+- **Soft Skills**: Comunicação assertiva, liderança técnica e visão analítica de processos financeiros.
 
 ---
 
