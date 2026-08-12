@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="README.md">🇧🇷 Português</a> | <a href="README-en.md">🇺🇸 English</a>
+  <a href="README-en.md">🇺🇸 English</a> | <a href="README.md">🇧🇷 Português</a>
 </div>
 
 # 🚀 Igor Peixoto | Frontend Engineer & Banking Specialist
