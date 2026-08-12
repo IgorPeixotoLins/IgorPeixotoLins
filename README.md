@@ -1,31 +1,34 @@
+<div align="right">
+  <a href="README.md">🇧🇷 Português</a> | <a href="README-en.md">🇺🇸 English</a>
+</div>
+
 # 🚀 Igor Peixoto | Frontend Engineer & Banking Specialist
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC¢er=true&vCenter=true&width=435&lines=Frontend+Developer;React+%26+TypeScript;Banking+Expert;Software+Engineering)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%26+TypeScript;Banking+Expert;Software+Engineering)
 
-**Transformando requisitos complexos de negócio em interfaces intuitivas, escaláveis e de alta performance.**
+**Transformando requisitos complexos de negócio em interfaces intuitivas, escaláveis e de alta performance, com forte especialização no setor financeiro.**
 
 ---
 
 ## 🎯 Por que eu?
 
-Com uma trajetória sólida e maturidade técnica, ofereço mais do que apenas código: entrego soluções alinhadas aos objetivos estratégicos da organização.
+Com uma trajetória sólida e maturidade técnica, uno mais de 10 anos de experiência corporativa em ambiente bancário com desenvolvimento front-end moderno, oferecendo soluções alinhadas aos objetivos estratégicos da organização.
 
-- **10+ anos no setor financeiro (Bradesco).**: Experiência consolidada em **operações de alta pressão**, **atendimento consultivo** e **gestão de relacionamento**. Possuo compreensão profunda das necessidades de **clientes corporativos e pessoas físicas**, sempre com uma **mentalidade voltada a resultados** e **otimização de processos** críticos.
-- **Production-Ready Code**: Foco rigoroso em *Clean Code*, princípios *SOLID* e cobertura de testes para garantir manutenibilidade e reduzir o débito técnico.
-- **Resultados Mensuráveis**: Histórico comprovado na otimização de processos de varejo, incluindo a **redução de 20% no tempo de análise de crédito** através de melhorias estratégicas de **UI/UX** e refinamento de fluxos operacionais, elevando a eficiência e a experiência do usuário final.
+- **Foco no Setor Financeiro & Corporativo**: Vivência consolidada no Banco Bradesco, atuando em **operações de alta pressão**, **atendimento consultivo** e **gestão de carteira PJ**, com profundo conhecimento de regras de negócio complexas.
+- **Production-Ready Code**: Foco rigoroso em *Clean Code*, componentização, boas práticas de arquitetura e integração de APIs REST.
+- **Resultados Mensuráveis**: Histórico comprovado na otimização de fluxos operacionais e processos corporativos, incluindo a **redução de 20% no tempo médio de análise de processos**, elevando a eficiência e a experiência do usuário final.
 
 ---
 
 ## 🛠️ Tecnologias & Stack
 
-*Stack moderno focado em performance, qualidade de software e experiência do usuário.*
+*Stack moderno focado em performance (LCP/INP/CLS), qualidade de software e experiência do usuário.*
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -34,37 +37,35 @@ Com uma trajetória sólida e maturidade técnica, ofereço mais do que apenas c
 
 ## ✨ Projetos em Destaque
 
-### 🧙‍♂️ [MagickIA](https://github.com/IgorPeixotoLins/projeto-magickia)
-*Plataforma inovadora de cartas mágicas com integração de filtros dinâmicos.*
-- **Tech Stack:** React, TypeScript, CSS3 (Responsivo).
-- **Impacto:** Desenvolvimento de lógica de filtragem complexa e interface fluida, simulando um ambiente de e-commerce de alta conversão com integração direta para checkout via API.
+### 💼 [Dashboard Financeiro PJ (Análise & Gestão)](https://github.com/IgorPeixotoLins)
+*Aplicação avançada voltada para análise financeira empresarial.*
+- **Tech Stack:** React, TypeScript, Tailwind CSS, Recharts / Context API.
+- **Impacto:** União perfeita entre o domínio de negócio bancário/PJ e arquitetura front-end moderna, oferecendo visualização dinâmica de métricas, gestão de fluxo e alta performance.
 
-### 💡 [Advice Generator](https://github.com/IgorPeixotoLins/AdviceGenerator)
-*Aplicação dinâmica de geração de insights via integração de API externa.*
-- **Tech Stack:** React, TypeScript, REST APIs.
-- **Impacto:** Foco em consumo assíncrono de dados e tratamento de estados, garantindo uma interface reativa e resiliente a falhas de rede.
+### ⚡ [Calculadora de Performance](https://github.com/IgorPeixotoLins)
+*Ferramenta de cálculo focada em escalabilidade e lógica isolada.*
+- **Tech Stack:** React, TypeScript, Vite, Styled Components.
+- **Impacto:** Aplicação avançada de estado em garantias de Clean Code e testabilidade, seguindo rigorosas boas práticas de arquitetura.
 
 ### ✂️ [Barber Shop Web](https://github.com/IgorPeixotoLins/barber-shop-web)
-*Sistema completo de agendamento e gestão para barbearias.*
-- **Tech Stack:** React, Styled-Components, Mobile-First Design.
-- **Impacto:** Solução ponta a ponta focada em conversão de usuários mobile, utilizando componentes reutilizáveis e arquitetura modular para facilitar a manutenção.
+*Interface de agendamento voltada para o usuário final.*
+- **Tech Stack:** HTML5, CSS3, JavaScript.
+- **Impacto:** Domínio completo de layout responsivo, manipulação do DOM e foco estrito em usabilidade.
 
 ---
 
-## 🎓 Educação & Certificações
+## 🎓 Educação & Formação
 
-- **Bacharelado em Engenharia de Software** — Centro Universitário União Américas Descomplica (Cursando)
-- **Full Stack Development** — Dev em Dobro (Em andamento, Formação intensiva focada em projetos reais)
-- **CPA 10 — ANBIMA** — Certificação Profissional de Mercado Financeiro
+- **Bacharelado em Engenharia de Software** — Descomplica Faculdade Digital *(Cursando simultaneamente o 2º e 3º períodos | Previsão: Dez/2028)*
+- **Desenvolvimento Web Full Stack** — DevQuest / Dev em Dobro *(Certificação Técnica em Desenvolvimento Web)*
 
 ---
 
 ## 🔧 Metodologias & Soft Skills
 
-- **Agile**: Experiência prática com Scrum e Kanban em times multidisciplinares.
-- **Qualidade**: Clean Code, Princípios SOLID, DRY e TDD (Test-Driven Development).
-- **UX/UI**: Design Responsivo, Mobile-First e Acessibilidade Web (WCAG).
-- **Soft Skills**: Comunicação assertiva, liderança técnica e visão analítica de processos financeiros.
+- **Metodologias Ágeis**: Experiência prática com Scrum e Kanban.
+- **Qualidade**: Clean Code, testes com Jest e React Testing Library, e noções de TDD.
+- **Soft Skills**: Resolução de problemas complexos, análise de dados e atendimento consultivo refinado ao longo de 10+ anos no setor financeiro.
 
 ---
 
@@ -79,8 +80,4 @@ Com uma trajetória sólida e maturidade técnica, ofereço mais do que apenas c
 
 Estou sempre aberto a novos desafios e oportunidades onde eu possa aplicar minha experiência técnica e visão de negócio para gerar valor real.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-peixoto-frontend-javascript/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor.peixoto.oliveira@gmail.com)
-[![Portfolio](https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IgorPeixotoLins/)
-
----
+[![LinkedIn](
