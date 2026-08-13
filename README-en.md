@@ -42,7 +42,7 @@ Combining a solid career transition with over 10 years of corporate experience i
 - **Tech Stack:** React, TypeScript, Tailwind CSS, Recharts / Context API.
 - **Impact:** Perfect blend of banking/corporate domain expertise and modern frontend architecture, featuring dynamic metrics visualization, cash flow management, and high performance.
 
-### ⚡ [Performance Calculator](https://github.com/IgorPeixotoLins)
+### ⚡ [Performance Calculator](https://github.com/IgorPeixotoLins/trilha-react-desafio01-calculadora)
 *Calculation tool focused on scalability and isolated logic.*
 - **Tech Stack:** React, TypeScript, Vite, Styled Components.
 - **Impact:** Advanced React state management ensuring Clean Code and testability, following rigorous software architecture standards.
