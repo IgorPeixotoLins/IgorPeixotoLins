@@ -42,7 +42,7 @@ Com uma trajetória sólida e maturidade técnica, uno mais de 10 anos de experi
 - **Tech Stack:** React, TypeScript, Tailwind CSS, Recharts / Context API.
 - **Impacto:** União perfeita entre o domínio de negócio bancário/PJ e arquitetura front-end moderna, oferecendo visualização dinâmica de métricas, gestão de fluxo e alta performance.
 
-### ⚡ [Calculadora de Performance](https://github.com/IgorPeixotoLins)
+### ⚡ [Calculadora de Performance](https://github.com/IgorPeixotoLins/trilha-react-desafio01-calculadora)
 *Ferramenta de cálculo focada em escalabilidade e lógica isolada.*
 - **Tech Stack:** React, TypeScript, Vite, Styled Components.
 - **Impacto:** Aplicação avançada de estado em garantias de Clean Code e testabilidade, seguindo rigorosas boas práticas de arquitetura.
