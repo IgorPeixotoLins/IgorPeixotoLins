@@ -78,7 +78,9 @@ Com uma trajetória sólida e maturidade técnica, uno mais de 10 anos de experi
 ---
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorPeixotoLins&theme=radical)
+<br>
 ![GitHub followers](https://img.shields.io/github/followers/IgorPeixotoLins?style=for-the-badge)
+
 
 ---
 
@@ -86,7 +88,8 @@ Com uma trajetória sólida e maturidade técnica, uno mais de 10 anos de experi
 
 Estou sempre aberto a novos desafios e oportunidades onde eu possa aplicar minha experiência técnica e visão de negócio para gerar valor real.
 
-[![LinkedIn](
+![LinkedIn](https://www.linkedin.com/in/igor-peixoto-frontend/)
+
 <div align="center">
   <sub>Desenvolvido com foco e dedicação por <strong>Igor Peixoto Lins</strong> • 2026</sub>
 </div>
