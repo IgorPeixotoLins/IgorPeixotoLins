@@ -88,7 +88,9 @@ Com uma trajetória sólida e maturidade técnica, uno mais de 10 anos de experi
 
 Estou sempre aberto a novos desafios e oportunidades onde eu possa aplicar minha experiência técnica e visão de negócio para gerar valor real.
 
-![LinkedIn](https://www.linkedin.com/in/igor-peixoto-frontend/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-peixoto-frontend-javascript/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor.peixoto.oliveira@gmail.com)
+[![Portfolio](https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IgorPeixotoLins/)
 
 <div align="center">
   <sub>Desenvolvido com foco e dedicação por <strong>Igor Peixoto Lins</strong> • 2026</sub>
