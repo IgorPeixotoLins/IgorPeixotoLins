@@ -68,19 +68,19 @@ Com uma trajetória sólida e maturidade técnica, uno mais de 10 anos de experi
 - **Soft Skills**: Resolução de problemas complexos, análise de dados e atendimento consultivo refinado ao longo de 10+ anos no setor financeiro.
 
 ---
-### 📈 Estatísticas do GitHub
+
+### 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorPeixotoLins&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155" alt="Estatísticas de Igor Peixoto" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPeixotoLins&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorPeixotoLins&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155" alt="Igor Peixoto's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPeixotoLins&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Most Used Languages" />
 </div>
 
----
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorPeixotoLins&theme=radical)
-<br>
-![GitHub followers](https://img.shields.io/github/followers/IgorPeixotoLins?style=for-the-badge)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorPeixotoLins&theme=radical" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://img.shields.io/github/followers/IgorPeixotoLins?style=for-the-badge" alt="GitHub Followers" />
+</div>
 
 ---
 
