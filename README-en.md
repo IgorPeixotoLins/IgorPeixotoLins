@@ -69,10 +69,18 @@ Combining a solid career transition with over 10 years of corporate experience i
 
 ---
 
-## 📊 GitHub Ecosystem
+### 📈 GitHub Statistics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorPeixotoLins&theme=radical)
-![GitHub followers](https://img.shields.io/github/followers/IgorPeixotoLins?style=for-the-badge)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorPeixotoLins&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155" alt="Igor Peixoto's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPeixotoLins&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorPeixotoLins&theme=radical" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://img.shields.io/github/followers/IgorPeixotoLins?style=for-the-badge" alt="GitHub Followers" />
+</div>
 
 ---
 
