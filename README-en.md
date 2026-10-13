@@ -35,22 +35,25 @@ Combining a solid career transition with over 10 years of corporate experience i
 
 ---
 
-## ✨ Featured Projects
+### ✨ Featured Projects
 
-### 💼 [Finance PJ Dashboard (Analysis & Management)](https://github.com/IgorPeixotoLins)
-*Advanced application targeted at corporate financial analysis.*
+#### 💼 [Finance PJ Dashboard (Analysis & Management)](https://github.com/IgorPeixotoLins/finance-pj-dashboard)
+*Corporate application designed for business financial analysis and tracking. Seamlessly combines deep corporate banking domain expertise with modern front-end architecture, featuring dynamic charts, real-time metrics, and a fully responsive interface.*
+
 - **Tech Stack:** React, TypeScript, Tailwind CSS, Recharts / Context API.
-- **Impact:** Perfect blend of banking/corporate domain expertise and modern frontend architecture, featuring dynamic metrics visualization, cash flow management, and high performance.
+- **Impact:** Perfect synergy between corporate/commercial banking expertise and modern front-end architecture, delivering dynamic metric visualization, cash flow management, and high performance.
 
-### ⚡ [Performance Calculator](https://github.com/IgorPeixotoLins/trilha-react-desafio01-calculadora)
-*Calculation tool focused on scalability and isolated logic.*
+#### ⚡ [Performance Calculator](https://github.com/IgorPeixotoLins/trilha-react-desafio01-calculadora)
+*Project focused on Clean Code, strict business logic isolation, and React state management best practices. Engineered to ensure calculation logic remains modular, resilient, and easily testable.*
+
 - **Tech Stack:** React, TypeScript, Vite, Styled Components.
-- **Impact:** Advanced React state management ensuring Clean Code and testability, following rigorous software architecture standards.
+- **Impact:** Advanced state management coupled with Clean Code and testability guarantees, adhering to rigorous software architecture standards.
 
-### ✂️ [Barber Shop Web](https://github.com/IgorPeixotoLins/barber-shop-web)
-*Scheduling interface geared toward the end-user.*
+#### ✂️ [Barber Shop Web](https://github.com/IgorPeixotoLins/barber-shop-web)
+*Practical application tailored for appointment scheduling and service management. Emphasizes asynchronous consumption of external APIs with defensive error handling, loading states, and a fluid user experience.*
+
 - **Tech Stack:** HTML5, CSS3, JavaScript.
-- **Impact:** Mastery of responsive layouts, DOM manipulation, and strict focus on usability.
+- **Impact:** Comprehensive mastery of responsive layouts, DOM manipulation, and a strict focus on usability.
 
 ---
 
